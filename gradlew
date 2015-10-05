@@ -1,5 +1,8 @@
 #!/usr/bin/env bash
 
+echo "Ouch!"
+exit 1
+
 ##############################################################################
 ##
 ##  Gradle start up script for UN*X
